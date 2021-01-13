@@ -1,10 +1,31 @@
 from rectpack import *
 import requests
 import json
+import argparse
+import os
+
+parser = argparse.ArgumentParser()    # 2. パーサを作る
+
+parser.add_argument('URL', help='IIIF Curation ListのURL')    # 必須の引数を追加
+parser.add_argument('-o', "--output-file", help='出力ファイルのパス', default="data/data.json")    # 必須の引数を追加
+parser.add_argument('-s', "--sort-algo", help='ソートアルゴリズム, 例：area')    # 必須の引数を追加
+parser.add_argument('-r', "--rotation", help='Rotationフラグ, 例：True or False')    # 必須の引数を追加
 
 # curation_uri = "https://utda.github.io/tenjiroom/genelib_vm2020-01.json"
 # curation_uri = "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569"
-curation_uri = "https://mp.ex.nii.ac.jp/api/curation/json/388b085f-772e-472d-8866-9951747c6719" #百鬼夜行
+# curation_uri = "https://mp.ex.nii.ac.jp/api/curation/json/388b085f-772e-472d-8866-9951747c6719" #百鬼夜行
+
+args = parser.parse_args()    # 4. 引数を解析
+
+curation_uri = args.URL
+output_file = args.output_file
+sort_algo = args.sort_algo
+
+sort = SORT_NONE
+if sort_algo  == "area":
+    sort = SORT_AREA
+
+rotation = args.rotation == "True"
 
 result = requests.get(curation_uri).json()
 
@@ -28,7 +49,7 @@ for selection in selections:
 
     manifest = selection["within"]["@id"]
     
-    print(manifest)
+    print("Downloading...", manifest)
 
     if manifest not in m_map:
 
@@ -101,7 +122,7 @@ bins = [(bin_w, bin_h)]
 r_map = {}
 r_check = {}
 
-packer = newPacker(rotation=False) # sort_algo=sort, rotation=False) # pack_algo=algo, 
+packer = newPacker(sort_algo=sort, rotation=rotation)
 
 # Add the rectangles to packing queue
 for r in rectangles:
@@ -203,17 +224,21 @@ manifest = {
     "label": result["label"],
     "sequences": [
         {
-        "@id": manifest_uri + "/sequence/normal",
-        "@type": "sc:Sequence",
-        "label": "Current Page Order",
-        "canvases": [
-            canvas
-        ]
+            "@id": manifest_uri + "/sequence/normal",
+            "@type": "sc:Sequence",
+            "label": "Current Page Order",
+            "canvases": [
+                canvas
+            ]
         }
     ]
 }
 
-fw = open("data.json", 'w')
+dir = os.path.dirname(output_file)
+if dir != "":
+    os.makedirs(dir, exist_ok=True)
+
+fw = open(output_file, 'w')
 json.dump(manifest, fw, ensure_ascii=False, indent=4,
             sort_keys=True, separators=(',', ': '))
 

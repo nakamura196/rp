@@ -1,0 +1,625 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json",
+    "@type": "sc:Manifest",
+    "label": "総合図書館バーチャルミュージアム",
+    "sequences": [
+        {
+            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 3145,
+                    "images": [
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0000-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=0,0,1372,3145",
+                            "resource": {
+                                "@id": "https://05r4t6462c.execute-api.us-east-1.amazonaws.com/latest/iiif/2/test%2Fold-paper02/0,0,3072,1340/full/90/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3145,
+                                "width": 1372
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=10.0,10.0,300,133",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/226/114,252,2740,1220/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 133,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=330.0,10.0,300,235",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/231/430,300,1900,1492/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 235,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=10.0,163.0,300,235",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/234/426,300,1892,1484/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 235,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=650.0,10.0,300,234",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/238/406,312,1920,1500/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 234,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0005-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=970.0,10.0,300,232",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/242/414,304,1924,1488/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 232,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0006-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=970.0,262.0,300,229",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/246/418,324,1916,1464/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 229,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0007-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=650.0,264.0,300,236",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/250/438,312,1900,1500/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 236,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0008-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=330.0,265.0,300,236",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/256/442,304,1900,1496/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 236,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0009-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=10.0,418.0,300,231",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/266/418,304,1956,1512/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 231,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0010-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=970.0,511.0,300,227",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/270/398,308,1972,1496/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 227,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0011-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=650.0,520.0,300,237",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/273/414,320,1896,1504/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 237,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0012-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=330.0,521.0,300,230",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/281/418,292,1924,1480/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 230,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0013-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=10.0,669.0,300,236",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/291/446,296,1896,1496/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 236,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0014-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=330.0,771.0,300,235",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/299/422,312,1904,1492/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 235,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0015-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=10.0,925.0,300,233",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/304/450,320,1920,1492/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 233,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0016-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=970.0,758.0,300,233",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/307/458,312,1900,1476/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 233,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0017-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=650.0,777.0,300,176",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/hyakki/images/hyakki.tif/70788,96,3984,2344/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 176,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0018-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=650.0,973.0,300,197",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/R0000010/36,752,6624,4368/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 197,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0019-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=330.0,1026.0,300,166",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/hyakki/images/hyakki.tif/67548,1024,3232,1792/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 166,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0020-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=10.0,1178.0,300,178",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/R0000011/364,4560,3440,2048/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 178,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0021-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=970.0,1011.0,299,300",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/hyakki/images/hyakki.tif/15106,1276,1452,1456/299,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 299
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0022-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=650.0,1190.0,242,300",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/R0000016/0,3552,1840,2272/242,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 242
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0023-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=330.0,1212.0,207,300",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/hyakki/images/hyakki.tif/53274,428,1364,1972/207,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 207
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0024-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=10.0,1376.0,300,268",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/R0000021/468,1448,4000,3576/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 268,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0025-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=912.0,1331.0,300,225",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/hyakki/images/hyakki.tif/54660,528,2096,1576/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 225,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0026-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=557.0,1510.0,300,222",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/R0000022/776,3088,4032,2992/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 222,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0027-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=877.0,1576.0,300,231",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/hyakki/images/hyakki.tif/31844,160,3440,2656/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 231,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0028-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=10.0,1664.0,276,300",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/R0000023/440,720,5456,5920/276,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 276
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0029-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=306.0,1752.0,300,274",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/hyakki/images/hyakki.tif/26020,160,2896,2648/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 274,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0030-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=626.0,1827.0,300,243",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/R0000025/108,2520,4592,3720/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 243,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0031-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=946.0,1827.0,300,217",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/hyakki/images/hyakki.tif/7924,400,3456,2504/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 217,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0032-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=946.0,2064.0,281,300",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/R0000027/1480,1216,5216,5568/281,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 281
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0033-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=10.0,2046.0,300,164",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/hyakki/images/hyakki.tif/5372,208,2296,1256/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 164,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0034-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=330.0,2090.0,300,195",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/R0000029/2028,3776,3848,2504/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 195,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0035-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=10.0,2230.0,284,300",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/hyakki/images/hyakki.tif/74526,1352,1388,1464/284,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 284
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0036-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=650.0,2090.0,259,300",
+                            "resource": {
+                                "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/R0000009/2772,3584,2672,3088/259,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 259
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0037-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=314.0,2305.0,300,196",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56199/300,744,6440,4216/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 196,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0038-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=929.0,2384.0,204,300",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56213/312,352,4176,6112/204,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 204
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0039-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=1153.0,2384.0,209,300",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56201/360,560,4016,5744/209,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 209
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0040-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=634.0,2410.0,222,300",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/piranesi/0000-0000-2001/0000-0000-2001-0001.tif/248,288,5984,8064/222,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 222
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0041-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=314.0,2521.0,230,300",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/piranesi/0000-0000-2023/0000-0000-2023-0411.tif/232,192,5104,6656/230,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 230
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0042-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=876.0,2704.0,300,236",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/15295/0,16,4256,3352/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 236,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0043-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=10.0,2841.0,300,256",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/6551/258,224,3116,2664/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 256,
+                                "width": 300
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0044-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=564.0,2730.0,260,300",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/ogatasiryo/A100_1649/A100_1649_0001.tif/0,640,7632,8784/260,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 260
+                            }
+                        },
+                        {
+                            "@id": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/annotation/p0045-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://utda.github.io/tenjiroom/genelib_vm2020-01.json/canvas/p1#xywh=844.0,2960.0,300,175",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/matsunosakae/A00_6569_0001.tif/0,0,13240,7760/300,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 175,
+                                "width": 300
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/iiif-curation-viewer/icp-logo.svg"
+                    },
+                    "width": 1372
+                }
+            ],
+            "label": "Current Page Order"
+        }
+    ]
+}
