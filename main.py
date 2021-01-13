@@ -2,8 +2,8 @@ from rectpack import *
 import requests
 import json
 
-curation_uri = "https://utda.github.io/tenjiroom/genelib_vm2020-01.json"
-# curation_uri = "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569"
+# curation_uri = "https://utda.github.io/tenjiroom/genelib_vm2020-01.json"
+curation_uri = "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569"
 
 result = requests.get(curation_uri).json()
 
@@ -102,13 +102,15 @@ print(bin_w, bin_h)
 
 bins = [(bin_w, bin_h)]
 
-bins = [(10240, 6000)]
+# bins = [(10240, 6000)]
 
-algos = [MaxRectsBl, MaxRectsBssf, MaxRectsBaf, MaxRectsBlsf, 
-# SkylineBl, SkylineBlWm, SkylineMwf, SkylineMwfl, SkylineMwfWm, SkylineMwflWm
+algos = [
+    MaxRectsBl, MaxRectsBssf, MaxRectsBaf, MaxRectsBlsf, 
+    # SkylineBl, SkylineBlWm, SkylineMwf, SkylineMwfl, SkylineMwfWm, SkylineMwflWm
 ]
-sort_algos = [SORT_NONE
-# , SORT_AREA, SORT_PERI, SORT_DIFF, SORT_SSIDE, SORT_LSIDE, SORT_RATIO
+sort_algos = [
+    SORT_NONE
+    # , SORT_AREA, SORT_PERI, SORT_DIFF, SORT_SSIDE, SORT_LSIDE, SORT_RATIO
 ]
 
 
