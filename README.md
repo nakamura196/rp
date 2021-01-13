@@ -16,11 +16,13 @@ pip install -r requirements.txt
 
 ## Usage
 
-以下を実行してください。
+例えば、以下のように実行してください。
 
 ```
-python main.py
+python main.py https://utda.github.io/tenjiroom/genelib_vm2020-01.json
 ```
+
+実行後、 `data/data.json` にIIIFマニフェストファイルが出力されます。
 
 オプションは、以下からご確認ください。
 
