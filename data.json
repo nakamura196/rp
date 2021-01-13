@@ -1,0 +1,1600 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569",
+    "@type": "sc:Manifest",
+    "label": "顔貌比較",
+    "sequences": [
+        {
+            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 5711,
+                    "images": [
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,0,210,278",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/4719,1685,210,278/210,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 278,
+                                "width": 210
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,278,221,211",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/4503,1637,221,211/221,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 211,
+                                "width": 221
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,489,192,300",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/4462,1979,203,317/192,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 192
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,789,217,279",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/4299,1768,217,279/217,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 279,
+                                "width": 217
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0005-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=192,489,217,279",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/4067,1937,217,279/217,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 279,
+                                "width": 217
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0006-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=221,0,181,191",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/4083,2657,181,191/181,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 191,
+                                "width": 181
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0007-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=402,0,181,191",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/3858,2564,181,191/181,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 191,
+                                "width": 181
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0008-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=221,191,166,272",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/3058,1188,166,272/166,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 272,
+                                "width": 166
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0009-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=387,191,166,272",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/2789,1140,166,272/166,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 272,
+                                "width": 166
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0010-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,1068,166,272",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/2569,1440,166,272/166,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 272,
+                                "width": 166
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0011-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,1340,166,272",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/2385,1488,166,272/166,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 272,
+                                "width": 166
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0012-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,1612,166,272",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/2593,1240,166,272/166,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 272,
+                                "width": 166
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0013-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,1884,166,272",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/2505,1148,166,272/166,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 272,
+                                "width": 166
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0014-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,2156,166,272",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/2317,1176,166,272/166,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 272,
+                                "width": 166
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0015-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,2428,166,272",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/2117,1308,166,272/166,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 272,
+                                "width": 166
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0016-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,2700,163,164",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/2013,1248,163,164/163,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 164,
+                                "width": 163
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0017-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,2864,174,290",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/954,1046,174,290/174,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 290,
+                                "width": 174
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0018-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=166,1068,174,290",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/757,1699,174,290/174,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 290,
+                                "width": 174
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0019-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=217,768,174,290",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/89,2151,174,290/174,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 290,
+                                "width": 174
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0020-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=166,1358,206,300",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00008.tif/4076,2373,220,320/206,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 206
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0021-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=340,1058,210,278",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/4719,1685,210,278/210,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 278,
+                                "width": 210
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0022-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=409,463,192,300",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/4462,1979,203,317/192,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 192
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0023-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=583,0,217,279",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/4299,1768,217,279/217,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 279,
+                                "width": 217
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0024-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=409,763,217,279",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/4067,1937,217,279/217,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 279,
+                                "width": 217
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0025-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=601,279,166,272",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00007.tif/3058,1188,166,272/166,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 272,
+                                "width": 166
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0026-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=166,1658,197,300",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00008.tif/2768,2030,208,316/197,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 197
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0027-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=166,1958,197,300",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00008.tif/2672,2342,208,316/197,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 197
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0028-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=166,2258,197,300",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00008.tif/2460,2130,208,316/197,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 197
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0029-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=601,551,168,198",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00008.tif/2416,2574,168,198/168,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 198,
+                                "width": 168
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0030-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=166,2558,168,287",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00008.tif/2156,2489,168,287/168,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 287,
+                                "width": 168
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0031-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=767,279,176,208",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00006.tif/1776,1269,176,208/176,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 208,
+                                "width": 176
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0032-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=800,0,176,208",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00006.tif/696,1624,176,208/176,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 208,
+                                "width": 176
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0033-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,3154,164,192",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00006.tif/2306,1624,164,192/164,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 192,
+                                "width": 164
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0034-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,3346,150,164",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00006.tif/2038,1812,150,164/150,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 164,
+                                "width": 150
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0035-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,3510,150,164",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00006.tif/1621,1954,150,164/150,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 164,
+                                "width": 150
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0036-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,3674,150,164",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00006.tif/1209,2178,150,164/150,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 164,
+                                "width": 150
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0037-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,3838,167,262",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00006.tif/2273,1998,167,262/167,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 262,
+                                "width": 167
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0038-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=164,3154,167,262",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00006.tif/2093,2141,167,262/167,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 262,
+                                "width": 167
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0039-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=174,2845,167,262",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00006.tif/1781,2245,167,262/167,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 262,
+                                "width": 167
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0040-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=334,2558,188,240",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00010.tif/4416,1581,188,240/188,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 240,
+                                "width": 188
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0041-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=372,1336,180,252",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00021.tif/3248,1157,180,252/180,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 252,
+                                "width": 180
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0042-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=550,1042,180,252",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00021.tif/2802,906,180,252/180,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 252,
+                                "width": 180
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0043-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=626,749,180,252",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00021.tif/2610,1114,180,252/180,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 252,
+                                "width": 180
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0044-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=769,487,180,252",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00021.tif/2614,742,180,252/180,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 252,
+                                "width": 180
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0045-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=943,208,180,252",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00021.tif/2406,882,180,252/180,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 252,
+                                "width": 180
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0046-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=372,1588,240,220",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00027.tif/3748,1081,240,220/240,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 220,
+                                "width": 240
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0047-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=363,1808,231,300",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00027.tif/3736,1430,236,306/231,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 231
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0048-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=363,2108,231,300",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00027.tif/3546,1227,236,306/231,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 231
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0049-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=552,1294,214,245",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00027.tif/3358,1047,214,245/214,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 245,
+                                "width": 214
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0050-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=730,1001,239,259",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200015505/200015505_00027.tif/3316,1558,239,259/239,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 259,
+                                "width": 239
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0051-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=976,0,150,200",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00017.tif/1842,620,150,200/150,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 200,
+                                "width": 150
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0052-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=949,460,150,200",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00017.tif/1785,396,150,200/150,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 200,
+                                "width": 150
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0053-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=949,660,150,200",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00017.tif/1561,448,150,200/150,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 200,
+                                "width": 150
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0054-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=150,3416,150,200",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00017.tif/1569,612,150,200/150,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 200,
+                                "width": 150
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0055-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=150,3616,150,200",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00017.tif/1269,448,150,200/150,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 200,
+                                "width": 150
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0056-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,4100,192,240",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00022.tif/2312,1980,192,240/192,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 240,
+                                "width": 192
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0057-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=167,3816,184,200",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00022.tif/1268,1916,184,200/184,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 200,
+                                "width": 184
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0058-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=341,2798,184,200",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00022.tif/2308,2332,184,200/184,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 200,
+                                "width": 184
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0059-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=522,2408,184,200",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00022.tif/2000,2476,184,200/184,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 200,
+                                "width": 184
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0060-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=612,1539,184,200",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017526/200017526_00022.tif/1452,2488,184,200/184,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 200,
+                                "width": 184
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0061-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=766,1260,232,240",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00024.tif/3056,1029,232,240/232,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 240,
+                                "width": 232
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0062-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=969,860,276,300",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00024.tif/3556,1424,288,312/276,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 276
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0063-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1126,0,228,272",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00026.tif/1364,1137,228,272/228,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 272,
+                                "width": 228
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0064-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1123,272,228,272",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00026.tif/1242,1912,228,272/228,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 272,
+                                "width": 228
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0065-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1099,544,228,272",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00026.tif/2062,1192,228,272/228,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 272,
+                                "width": 228
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0066-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=612,1739,238,276",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00026.tif/2202,1412,238,276/238,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 276,
+                                "width": 238
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0067-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=594,2015,238,276",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00026.tif/2537,1174,238,276/238,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 276,
+                                "width": 238
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0068-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=341,2998,218,248",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00029.tif/1730,1586,218,248/218,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 248,
+                                "width": 218
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0069-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=525,2608,218,248",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00029.tif/2529,1558,218,248/218,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 248,
+                                "width": 218
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0070-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=706,2291,244,244",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00038.tif/968,1333,244,244/244,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 244,
+                                "width": 244
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0071-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=850,1500,190,242",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00038.tif/744,1604,190,242/190,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 242,
+                                "width": 190
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0072-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=998,1160,190,242",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00038.tif/1587,1219,190,242/190,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 242,
+                                "width": 190
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0073-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=850,1742,167,211",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00038.tif/1685,1721,167,211/167,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 211,
+                                "width": 167
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0074-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=850,1953,176,186",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00038.tif/2313,1507,176,186/176,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 186,
+                                "width": 176
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0075-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1017,1742,176,186",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00038.tif/2326,1807,176,186/176,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 186,
+                                "width": 176
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0076-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1188,1160,176,186",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00038.tif/2534,1629,176,186/176,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 186,
+                                "width": 176
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0077-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1354,0,208,192",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00043.tif/3220,2133,208,192/208,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 192,
+                                "width": 208
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0078-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1354,192,208,192",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00043.tif/3552,2088,208,192/208,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 192,
+                                "width": 208
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0079-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1351,384,208,192",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00043.tif/4096,1260,208,192/208,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 192,
+                                "width": 208
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0080-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1327,576,172,191",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016472/200016472_00043.tif/4300,1672,172,191/172,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 191,
+                                "width": 172
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0081-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1327,767,196,268",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00006.tif/1606,2042,196,268/196,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 268,
+                                "width": 196
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0082-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1188,1346,196,268",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00006.tif/1630,2430,196,268/196,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 268,
+                                "width": 196
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0083-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1364,1035,196,268",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00006.tif/1382,2310,196,268/196,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 268,
+                                "width": 196
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0084-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1559,384,214,270",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00006.tif/690,1374,214,270/214,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 270,
+                                "width": 214
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0085-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1562,0,214,270",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00006.tif/617,1069,214,270/214,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 270,
+                                "width": 214
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0086-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1523,654,236,244",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00007.tif/3640,1045,236,244/236,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 244,
+                                "width": 236
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0087-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=331,3246,236,244",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00007.tif/3370,894,236,244/236,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 244,
+                                "width": 236
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0088-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=559,2856,236,244",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00007.tif/3154,990,236,244/236,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 244,
+                                "width": 236
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0089-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=743,2535,206,246",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00007.tif/2594,1114,206,246/206,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 246,
+                                "width": 206
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0090-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=300,3490,206,246",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00007.tif/2921,2345,206,246/206,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 246,
+                                "width": 206
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0091-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,4340,215,283",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00007.tif/2656,2237,215,283/215,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 283,
+                                "width": 215
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0092-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=192,4016,215,283",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00007.tif/2425,2351,215,283/215,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 283,
+                                "width": 215
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0093-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,4623,284,282",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00007.tif/1973,1795,284,282/284,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 282,
+                                "width": 284
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0094-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=215,4299,223,300",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00007.tif/1726,2407,230,309/223,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 300,
+                                "width": 223
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0095-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=407,3736,184,208",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00014.tif/4240,2165,184,208/184,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 208,
+                                "width": 184
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0096-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=567,3100,208,220",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00014.tif/4036,2304,208,220/208,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 220,
+                                "width": 208
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0097-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=567,3320,216,234",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00014.tif/3756,2030,216,234/216,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 234,
+                                "width": 216
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0098-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=407,3944,216,234",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00014.tif/3564,2199,216,234/216,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 234,
+                                "width": 216
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0099-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=775,3100,208,217",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00014.tif/3428,2047,208,217/208,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 217,
+                                "width": 208
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0100-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=950,2139,184,245",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200016463/200016463_00014.tif/3164,1132,184,245/184,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 245,
+                                "width": 184
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0101-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=806,860,163,134",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00008.tif/2053,1966,163,134/163,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 134,
+                                "width": 163
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0102-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1026,1928,168,180",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00010.tif/3518,1901,168,180/168,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 180,
+                                "width": 168
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0103-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1193,1614,168,180",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00010.tif/2248,1958,168,180/168,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 180,
+                                "width": 168
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0104-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=950,2384,220,200",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00014.tif/4694,1025,220,200/220,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 200,
+                                "width": 220
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0105-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1134,2108,220,200",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00014.tif/4446,1256,220,200/220,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 200,
+                                "width": 220
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0106-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1194,1794,220,200",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00014.tif/4278,1536,220,200/220,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 200,
+                                "width": 220
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0107-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1384,1303,194,204",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00014.tif/4082,840,194,204/194,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 204,
+                                "width": 194
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0108-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1560,898,194,204",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00014.tif/2991,962,194,204/194,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 204,
+                                "width": 194
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0109-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1384,1507,194,204",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00014.tif/2767,2130,194,204/194,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 204,
+                                "width": 194
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0110-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=949,2584,194,204",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00014.tif/2611,946,194,204/194,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 204,
+                                "width": 194
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0111-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=795,2788,194,204",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00014.tif/2355,2142,194,204/194,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 204,
+                                "width": 194
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0112-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=591,3554,194,204",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00014.tif/2131,2010,194,204/194,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 204,
+                                "width": 194
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0113-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=783,3317,194,204",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00014.tif/1835,2074,194,204/194,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 204,
+                                "width": 194
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0114-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,4905,185,294",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00014.tif/1643,862,185,294/185,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 294,
+                                "width": 185
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0115-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,5199,185,294",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00014.tif/960,1429,185,294/185,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 294,
+                                "width": 185
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0116-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1560,1102,196,172",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00017.tif/4822,1485,196,172/196,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 172,
+                                "width": 196
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0117-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,5493,206,218",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00017.tif/4414,1358,206,218/206,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 218,
+                                "width": 206
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0118-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1754,898,151,197",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00017.tif/3137,1683,151,197/151,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 197,
+                                "width": 151
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0119-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1776,0,176,203",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00017.tif/2689,1546,176,203/176,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 203,
+                                "width": 176
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0120-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=1776,203,152,274",
+                            "resource": {
+                                "@id": "http://codh.rois.ac.jp/pmjt/iiif/200017771/200017771_00024.tif/2060,1446,152,274/152,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 274,
+                                "width": 152
+                            }
+                        },
+                        {
+                            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/annotation/p0000-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569/canvas/p1#xywh=0,0,1952,5711",
+                            "resource": {
+                                "@id": "https://free-texture.net/wp-content/uploads/old-paper02.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 5711,
+                                "width": 1952
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/iiif-curation-viewer/icp-logo.svg"
+                    },
+                    "width": 1952
+                }
+            ],
+            "label": "Current Page Order"
+        }
+    ]
+}
