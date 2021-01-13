@@ -2,8 +2,8 @@ from rectpack import *
 import requests
 import json
 
-# curation_uri = "https://utda.github.io/tenjiroom/genelib_vm2020-01.json"
-curation_uri = "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569"
+curation_uri = "https://utda.github.io/tenjiroom/genelib_vm2020-01.json"
+# curation_uri = "https://mp.ex.nii.ac.jp/api/curation/json/f6930a51-74fc-4bfd-965d-7a7a6a26c569"
 
 result = requests.get(curation_uri).json()
 
@@ -45,10 +45,18 @@ for selection in selections:
 
         mid = member["@id"]
 
-        if "#xywh=" not in mid:
-            continue 
+        canvas = mid.split("#xywh=")[0]
 
-        xywh = mid.split("#xywh=")[1].split(",")
+        resource = cmap[canvas]
+
+        xywh_str = ""
+
+        if "#xywh=" not in mid:
+            xywh_str = "0,0,"+str(resource["width"])+","+str(resource["height"])
+        else:
+            xywh_str = mid.split("#xywh=")[1]
+
+        xywh = xywh_str.split(",")
 
         w = int(xywh[2])
         h = int(xywh[3])
@@ -61,16 +69,11 @@ for selection in selections:
         elif h > w and h > max:
             w = int(w * max / h)
             h = max
-        
-
-        canvas = mid.split("#xywh=")[0]
-
-        resource = cmap[canvas]
 
         # print(resource)
 
         res = {
-            "@id" : resource["service"]["@id"] + "/" + mid.split("#xywh=")[1] + "/"+str(w)+",/0/default.jpg",
+            "@id" : resource["service"]["@id"] + "/" + xywh_str + "/"+str(w)+",/0/default.jpg",
             "width" : w,
             "height" : h,
             "@type": "dctypes:Image",
@@ -98,6 +101,8 @@ print(bin_w, bin_h)
 # bin_w = int(bin_w / 3)
 
 bins = [(bin_w, bin_h)]
+
+bins = [(10240, 6000)]
 
 algos = [MaxRectsBl, MaxRectsBssf, MaxRectsBaf, MaxRectsBlsf, 
 # SkylineBl, SkylineBlWm, SkylineMwf, SkylineMwfl, SkylineMwfWm, SkylineMwflWm
@@ -169,7 +174,7 @@ for sort in sort_algos:
                 "resource": resource
             })
 
-        images.append({
+        images.insert(0, {
                 "@id": manifest_uri+"/annotation/p"+str(0).zfill(4)+"-image",
                 "@type": "oa:Annotation",
                 "motivation": "sc:painting",
